@@ -25,7 +25,7 @@ The meal plan feature allows users to create their meal plan for the day based o
 
 ## Usage
 
-To use this website, simply navigate to the [live version](<(https://nino-prog.github.io/csc300x-hw3/)>) hosted on GitHub Pages. You can explore the recommendations, select dishes for your meal plan, and view the total cost of your selected meals.
+To use this website, simply navigate to the [live version](https://nino-prog.github.io/csc300x-hw3/)) hosted on GitHub Pages. You can explore the recommendations, select dishes for your meal plan, and view the total cost of your selected meals.
 
 ## Contributing
 
