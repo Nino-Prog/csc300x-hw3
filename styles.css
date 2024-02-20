@@ -1,0 +1,83 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #6e9b5d;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Specific styles for dish sections */
+#recommendations article {
+    margin-bottom: 20px;
+}
+
+#recommendations article h2 {
+    color: #333;
+}
+
+#recommendations article .dish {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+#recommendations article .dish img {
+    max-width: 100%;
+    height: auto;
+    margin-right: 10px;
+    cursor: pointer; /* Add pointer cursor to indicate image clickability */
+}
+
+#recommendations article .dish p {
+    margin: 0;
+}
+
+/* Styles for meal plan page */
+#meal-plan {
+    border-top: 1px solid #ccc;
+    padding-top: 20px;
+}
+
+#meal-plan h2 {
+    color: #333;
+}
+
+#selected-dishes {
+    list-style-type: none;
+    padding: 0;
+}
+
+#selected-dishes li {
+    margin-bottom: 10px;
+}
+
+#total-cost {
+    font-weight: bold;
+}
